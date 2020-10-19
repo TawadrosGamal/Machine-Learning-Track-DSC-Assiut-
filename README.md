@@ -7,7 +7,7 @@ Tawadros Gamal : Machine Learning Core team memebere @ DSC Assiut
 
 Margo Sabry : Machine Learning Core team memeber @ DSC Assiut 
 
-Eman Mohamed : Machine Learning Core team memeber @ DSC Assiut 
+Eman Mahmoud : Machine Learning Core team memeber @ DSC Assiut 
 
 Marwan Mohamed : Machine Learning Core team memeber @ DSC Assiut 
 
